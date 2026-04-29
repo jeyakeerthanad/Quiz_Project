@@ -15,7 +15,7 @@ A simple and interactive **Computer Science Quiz Game** built using Python. Test
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * Python
 * `random` module (for shuffling questions)
